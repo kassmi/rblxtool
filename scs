@@ -1,5 +1,5 @@
 _G.Doge = true;
-_G.dogespeed = 80;
+_G.dogespeed = 60;
 
 local mt = getrawmetatable(game)
 local old = mt.__newindex
